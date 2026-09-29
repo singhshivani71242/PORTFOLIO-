@@ -152,7 +152,8 @@ Use **VS Code + Live Server** for a smoother development experience.
 
 ## 📸 Preview
 
-Add a screenshot of your portfolio here:
+<img width="1909" height="1015" alt="Screenshot 2026-09-29 102048" src="https://github.com/user-attachments/assets/43c879b4-7c46-41c1-b550-54665750b145" />
+
 
 ```text
 portfolio-preview.png
